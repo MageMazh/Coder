@@ -220,7 +220,6 @@ li:hover {
     color: white;
 }
 
-/* tidak sempurna tpi coba sj bljr */
 @media screen and (max-width: 600px) {
     :root {
         --font-size-high: 20px;
